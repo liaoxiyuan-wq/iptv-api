@@ -4,7 +4,7 @@
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 
 
-
+https://guovin.github.io/iptv-api/result.m3u
 
 
 [WHITELIST]
