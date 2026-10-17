@@ -5,6 +5,9 @@
 
 
 https://guovin.github.io/iptv-api/result.m3u
+https://guovin.github.io/iptv-api/result.txt
+https://guovin.github.io/iptv-api/ipv4.m3u
+https://guovin.github.io/iptv-api/ipv4.txt
 
 
 [WHITELIST]
