@@ -195,37 +195,6 @@ SBS JTV
 音樂欣賞2
 中華小當家
 
-🌏日韩及国际频道,#genre#
-Discovery探索頻道
-Discovery探索亞洲
-HISTORY頻道
-KBS 1TV
-KBS 2TV
-KBS Drama
-KBS Joy
-KBS Life
-KBS World
-MBC Chuncheon
-MBC Chungbuk
-MBC Mokpo
-MBC Yeosu
-NHK WORLD
-SBS CJB
-SBS JTV
-动物星球
-動物星球
-国家地理野生
-國會頻道1
-CGTN
-CGTN阿语
-CGTN俄语
-CGTN法语
-CGTN记录
-CGTN西语
-CGTN英语
-CCTV-4
-香港卫视
-
 📡卫视频道,#genre#
 广东卫视
 香港卫视
