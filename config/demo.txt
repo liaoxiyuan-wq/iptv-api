@@ -1,4 +1,4 @@
-⭐常用频道,#genre#
+常用频道,#genre#
 CCTV-1
 CCTV-2
 CCTV-3
@@ -20,7 +20,7 @@ CCTV-14
 深圳卫视
 香港卫视
 
-📺央视频道,#genre#
+央视频道,#genre#
 CCTV-1
 CCTV-2
 CCTV-3
@@ -44,7 +44,7 @@ CETV-2
 CETV-3
 CETV-4
 
-☘️广东频道,#genre#
+广东频道,#genre#
 广东珠江
 广东体育
 广东新闻
@@ -64,7 +64,7 @@ CETV-4
 茂名综合
 茂名公共
 
-📰新闻资讯,#genre#
+新闻资讯,#genre#
 CCTV-13
 CCTV-4
 CGTN
@@ -73,7 +73,7 @@ CGTN
 广东民生
 广州综合
 
-🎬电影及剧集,#genre#
+电影及剧集,#genre#
 CCTV-6
 CCTV-8
 CCTV怀旧剧场频道
@@ -84,7 +84,7 @@ CCTV怀旧剧场
 CCTV女性时尚
 东方卫视4K
 
-⚽体育频道,#genre#
+体育频道,#genre#
 CCTV-5
 CCTV-5+
 广东体育
@@ -101,7 +101,7 @@ CCTV-5+
 足球频道
 睛彩广场舞
 
-🇭🇰香港频道,#genre#
+香港频道,#genre#
 凤凰香港台
 凤凰资讯
 香港電台普通話台
@@ -195,7 +195,7 @@ SBS JTV
 音樂欣賞2
 中華小當家
 
-📡卫视频道,#genre#
+卫视频道,#genre#
 广东卫视
 香港卫视
 浙江卫视
