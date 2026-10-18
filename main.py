@@ -422,12 +422,15 @@ class UpdateSource:
         }
         urls_total = get_urls_len(test_data)
 
-        process_nested_dict(
-            test_data,
-            seen=set(),
-            filter_host=config.speed_test_filter_host,
-            ipv6_support=self.ipv6_support,
-        )
+        # Deduplicate within each category, not across categories.
+        # The same stream may legitimately appear in multiple playlist groups.
+        for category_data in test_data.values():
+            process_nested_dict(
+                category_data,
+                seen=set(),
+                filter_host=config.speed_test_filter_host,
+                ipv6_support=self.ipv6_support,
+            )
         self.total = get_urls_len(test_data)
 
         self.reporter.info(
