@@ -64,26 +64,6 @@ CETV-4
 茂名综合
 茂名公共
 
-新闻资讯,#genre#
-CCTV-13
-CCTV-4
-CGTN
-北京新闻
-广东新闻
-广东民生
-广州综合
-
-电影及剧集,#genre#
-CCTV-6
-CCTV-8
-CCTV怀旧剧场频道
-CCTV女性时尚频道
-CCTV世界地理
-CCTV第一剧场
-CCTV怀旧剧场
-CCTV女性时尚
-东方卫视4K
-
 体育频道,#genre#
 CCTV-5
 CCTV-5+
@@ -100,100 +80,6 @@ CCTV-5+
 睛彩篮球
 足球频道
 睛彩广场舞
-
-香港频道,#genre#
-凤凰香港台
-凤凰资讯
-香港電台普通話台
-香港国际财经台
-香港卫视
-香港卫视文旅
-香港有线新闻
-有线财经信息台
-有线新闻
-有线新闻台
-耀才财经
-ANTV
-AMC電影台
-GOODTV道在人間HD
-GOODTV復興禱告
-GOODTV好消息HD
-GOODTV好消息卡通
-GTV八大第1台HD
-GTV八大戲劇HD
-GTV八大綜合台HD
-SET三立戲劇
-八大综合
-博斯魅力
-博斯运动2
-大爱二台
-点掌财经
-东森财经
-东森超视
-东森超视34.5
-东森美洲
-东森美洲卫视
-东森戏剧
-东森新闻
-东森幼幼台
-东森综合
-好消息
-好消息电视台
-好消息综合台
-华视
-寰宇新闻
-靖天国际台
-龙华戏剧
-美食星球
-美亚C+
-美亚电影
-民视
-民视新闻台
-民視閩南頻道
-年代much
-三立台湾台
-生命電視
-生命電視台
-世新綜合
-台视新闻 HD
-台视新闻台
-天映经典
-天映频道(MAS)
-唯心电视
-唯心电视台
-唯心電視
-纬来体育
-纬来综合
-緯來精采HD
-中视
-中天娱乐
-TVBS新闻台
-TVBS亚洲
-尼克儿童频道
-Discovery探索頻道
-Discovery探索亞洲
-HISTORY頻道
-KBS 1TV
-KBS 2TV
-KBS Drama
-KBS Joy
-KBS Life
-KBS World
-MBC Chuncheon
-MBC Chungbuk
-MBC Mokpo
-MBC Yeosu
-NHK WORLD
-SBS CJB
-SBS JTV
-动物星球
-動物星球
-人间卫视
-国家地理野生
-國會頻道1
-音樂欣賞1
-音樂欣賞2
-中華小當家
 
 卫视频道,#genre#
 广东卫视
@@ -231,7 +117,128 @@ SBS JTV
 新疆卫视
 云南卫视
 
+新闻资讯,#genre#
+CCTV-13
+CCTV-4
+CGTN
+北京新闻
+广东新闻
+广东民生
+广州综合
+
+少儿及教育,#genre#
+
+
+国际及外语,#genre#
+香港卫视文旅
+动物星球
+動物星球
+国家地理野生
+
+香港频道,#genre#
+凤凰资讯
+香港卫视
+香港有线新闻
+有线新闻
+耀才财经
+好消息
+人间卫视
+
+台湾频道,#genre#
+凤凰香港台
+香港電台普通話台
+香港国际财经台
+有线财经信息台
+有线新闻台
+ANTV
+AMC電影台
+GOODTV道在人間HD
+GOODTV復興禱告
+GOODTV好消息HD
+GOODTV好消息卡通
+GTV八大第1台HD
+GTV八大戲劇HD
+GTV八大綜合台HD
+SET三立戲劇
+八大综合
+博斯魅力
+博斯运动2
+大爱二台
+点掌财经
+东森财经
+东森超视
+东森超视34.5
+东森美洲
+东森美洲卫视
+东森戏剧
+东森新闻
+东森幼幼台
+东森综合
+好消息电视台
+好消息综合台
+华视
+寰宇新闻
+靖天国际台
+龙华戏剧
+美食星球
+美亚C+
+美亚电影
+民视
+民视新闻台
+民視閩南頻道
+年代much
+三立台湾台
+生命電視
+生命電視台
+世新綜合
+台视新闻 HD
+台视新闻台
+天映经典
+天映频道(MAS)
+唯心电视
+唯心电视台
+唯心電視
+纬来体育
+纬来综合
+緯來精采HD
+中视
+中天娱乐
+TVBS新闻台
+TVBS亚洲
+尼克儿童频道
+Discovery探索頻道
+Discovery探索亞洲
+HISTORY頻道
+國會頻道1
+音樂欣賞1
+音樂欣賞2
+中華小當家
+
+日韩及国际频道,#genre#
+KBS 1TV
+KBS 2TV
+KBS Drama
+KBS Joy
+KBS Life
+KBS World
+MBC Chuncheon
+MBC Chungbuk
+MBC Mokpo
+MBC Yeosu
+NHK WORLD
+SBS CJB
+SBS JTV
+
 其他,#genre#
+CCTV-6
+CCTV-8
+CCTV怀旧剧场频道
+CCTV女性时尚频道
+CCTV世界地理
+CCTV第一剧场
+CCTV怀旧剧场
+CCTV女性时尚
+东方卫视4K
 CCTV1-综合
 CCTV2-财经
 CCTV3-综艺
