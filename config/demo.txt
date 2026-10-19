@@ -43,6 +43,44 @@ CETV-1
 CETV-2
 CETV-3
 CETV-4
+CCTV+ 1 (600p) [Not 24/7]
+CCTV+ 2 (600p) [Not 24/7]
+CCTV-1 (720p)
+CCTV-1 HD (1080p)
+CCTV-2 (720p)
+CCTV-3 (720p)
+CCTV-4 America (1080p)
+CCTV-4 Asia (720p)
+CCTV-4 Europe
+CCTV-4K HD (1080p)
+CCTV-5+
+CCTV-6 [Geo-blocked]
+CCTV-6 HD (1080p)
+CCTV-7 (720p)
+CCTV-8 (720p)
+CCTV-8K HD (1080p)
+CCTV-9 (576i)
+CCTV-10 (720p)
+CCTV-11 (720p)
+CCTV-12 (720p)
+CCTV-13 (720p)
+CCTV-13 HD (1080p)
+CCTV-14 HD (1080p)
+CCTV-15 (1080p)
+CCTV-16 HD (1080p)
+CCTV-17 HD (1080p)
+CCTV-Billiards (1080p)
+CCTV-Culture of Quality SD (1080p)
+CCTV-Golf & Tennis (1080p)
+CCTV-Health (1080p)
+CCTV-Nostalgia Theater (1080p)
+CCTV-Storm Football (1080p)
+CCTV-Storm Music (1080p)
+CCTV-Storm Theater (1080p)
+CCTV-The First Theater (1080p)
+CCTV-Weapon & Technology (1080p)
+CCTV-Women's Fashion SD (1080p)
+CCTV-World Geography SD (1080p)
 
 广东频道,#genre#
 广东珠江
