@@ -5,6 +5,7 @@
 
 
 https://guovin.github.io/iptv-api/result.m3u
+https://iptv-org.github.io/iptv/index.country.m3u
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
