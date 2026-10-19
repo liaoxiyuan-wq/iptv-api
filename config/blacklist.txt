@@ -2,3 +2,14 @@
 # This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
 /audio/
 bxtv.3a.ink
+38.75.136.137
+63.141.230.178
+207.56.13.146
+173.208.212.130
+204.12.221.218
+198.204.228.26
+69.30.245.50
+198.204.240.250
+107.150.60.122
+74.91.26.218
+192.151.150.154
